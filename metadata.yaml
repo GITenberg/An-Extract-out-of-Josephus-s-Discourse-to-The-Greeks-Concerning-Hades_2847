@@ -1,0 +1,34 @@
+_repo: An-Extract-out-of-Josephus-s-Discourse-to-The-Greeks-Concerning-Hades_2847
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whiston, William
+    birthdate: 1667
+    deathdate: 1752
+    gutenberg_agent_id: '1051'
+    url: http://www.gutenberg.org/2009/agents/1051
+    wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+creator:
+  author:
+    agent_name: Josephus, Flavius
+    birthdate: 37
+    gutenberg_agent_id: '1050'
+    url: http://www.gutenberg.org/2009/agents/1050
+    wikipedia: http://en.wikipedia.org/wiki/Josephus
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- History'
+- !lcsh 'Jews -- Antiquities'
+- !lcc 'DS'
+- GITenberg
+title: An Extract out of Josephus's Discourse to The Greeks Concerning Hades
+url: http://www.gutenberg.org/ebooks/2847
