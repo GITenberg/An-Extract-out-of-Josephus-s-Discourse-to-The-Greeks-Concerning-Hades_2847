@@ -1,5 +1,5 @@
 _repo: An-Extract-out-of-Josephus-s-Discourse-to-The-Greeks-Concerning-Hades_2847
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Whiston, William
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1051'
     url: http://www.gutenberg.org/2009/agents/1051
     wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Josephus, Flavius
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1050
     wikipedia: http://en.wikipedia.org/wiki/Josephus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2847#An-Extract-out-of-Josephus-s-Discourse-to-The-Greeks-Concerning-Hades
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
